@@ -11,7 +11,7 @@ $$
 i \hbar \frac{\partial \psi \left( \textbf{r}, t \right)}{\partial t} = V \left( \textbf{r}, t \right) \psi \left( \textbf{r}, t \right) - \frac{\hbar^2}{2m} \nabla^2 \psi \left( \textbf{r}, t \right)
 $$
 
-with wave function $\psi \left( \textbf{r}, t \right)$ and arbitrary potential $V \left( \textbf{r}, t \right)$ and admissible initial/boundary data, the method herein provides an explicit, closed-form, normalized construction of $\psi \left( \textbf{r}, t \right)$ (under stated hypotheses):
+with wave function $\psi \left( \textbf{r}, t \right)$, arbitrary potential $V \left( \textbf{r}, t \right)$, $n$-dimensional domain $\Omega(t) \subseteq \mathbb{R}^n$, and admissible initial/boundary data, the method herein provides an explicit, closed-form, normalized construction of $\psi \left( \textbf{r}, t \right)$ (under stated hypotheses):
 
 $$
 	\Psi \left(\textbf{r},t\right) = \exp \left( \pm \left( V(\textbf{r},t) \int_{\Omega(t)} \frac{\ln^2 \left( \Psi_0(\textbf{r}^\prime) \right)}{V_0(\textbf{r}^\prime)} G(\textbf{r}, \textbf{r}^\prime, t) d\textbf{r}^\prime - \frac{2V(\textbf{r},t)}{i\hbar} \int^t_0 \int_{\Omega(t)} G(\textbf{r}, \textbf{r}^\prime, t - \tau ) d\textbf{r}^\prime d\tau + \nonumber \right. \right. \nonumber
