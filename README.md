@@ -45,7 +45,7 @@ $$
 - /env/ – Environment files (conda, pip, Docker)
 - /scripts/ – Helper scripts (lint, format, CI utilities)
 - /CITATION.cff – Machine-readable citation metadata
-- /LICENSE – License (MIT by default; change if needed)
+- /LICENSE – Legal stuff
 
 ## Contact
 
