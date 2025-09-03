@@ -1,6 +1,6 @@
-# The Longfellow Schrödinger Solution
+# The General Solution to the Schrödinger Equation
 
-- A research codebase and document set for the unique general solution of the time-dependent Schrödinger equation developed by Alan C. Longfellow.
+- A research codebase and document set for the unique general solution of the time-dependent Schrödinger equation with arbitrary variable potential developed by Alan C. Longfellow.
 - This repository contains links to the formal paper(s) plus the proofs, supporting derivations, reproducible notebooks, reference implementations, and figure generation scripts.
 
 ## Claim (informal):
