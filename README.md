@@ -1,6 +1,6 @@
 # Solution to the Schrödinger Equation
 
-- A research codebase and document set for a very general solution of the time-dependent Schrödinger equation with arbitrary variable potential developed by Alan C. Longfellow.
+- A research codebase and document set for a very general solution of the time-dependent Schrödinger equation with arbitrary variable potential developed in the United States by Alan Clark Longfellow.
 - This repository aims to link formal paper(s) to all relevant proofs, supporting derivations, reproducible notebooks, reference implementations, and figure generation scripts to support community and peer reviewers.
 
 ## Claim (this v1.0 is deprecated as of 09/06/2025. Update to v2.0 pending formula validation):
@@ -44,11 +44,11 @@ $$
 - /env/ – Environment files (conda, pip, Docker)
 - /scripts/ – Helper scripts (lint, format, CI utilities)
 - /CITATION.cff – Machine-readable citation metadata
-- /LICENSE – License, copyright, patents pending
+- /legal – License, copyright, patents pending
 
 ## Contact
 
-- Author: Alan C. Longfellow
+- Author: Alan Clark Longfellow
 - Institutional Email: alongfellow4918@floridapoly.edu
 - Personal Email: alan.longfellow.118@gmail.com
 - Phone: +1 (813) 365-8825
